@@ -102,6 +102,6 @@
 
 - Possible Sub-components:
 
- 1. Web application development: creates a user-friendly web application that allows end-users to interact with the models and analysis tools through a graphical interface.
- 2. Scalability and performance: ensures that the framework can handle high volumes of requests and is optimized for performance and efficiency.
- 3. Security and privacy: ensures that the deployed models and analysis tools are secure and protect sensitive data by using encryption.
+  1. Web application development: creates a user-friendly web application that allows end-users to interact with the models and analysis tools through a graphical interface.
+  2. Scalability and performance: ensures that the framework can handle high volumes of requests and is optimized for performance and efficiency.
+  3. Security and privacy: ensures that the deployed models and analysis tools are secure and protect sensitive data by using encryption.
