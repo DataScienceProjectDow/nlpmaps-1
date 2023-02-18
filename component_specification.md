@@ -54,17 +54,17 @@ Random search: randomly samples hyperparameters from the search space and evalua
 Bayesian optimization: uses a probabilistic model to predict the performance of hyperparameter configurations and selects the next configuration to evaluate based on an acquisition function.
 
 
-6. Visualization:
+## 6. Visualization:
 
 - What it does: Provides tools for visualizing data to identify patterns and anomalies.
 - Input:
-- - Data
-- - Customizable visualization parameters
+  1. Data
+  2. Customizable visualization parameters
 
 - Output:
-- - Interactive visualizations of the data
+ * Interactive visualizations of the data
 - Possible Sub-components:
-- - Graphs: visual representations of data using points, lines, bars, or other shapes.
+ * Graphs: visual representations of data using points, lines, bars, or other shapes.
 - - Customizable settings: allow users to adjust various parameters such as color, size, scale, and axis labels.
 - - Interactive features: enable users to explore the data and gain insights by hovering over points, selecting subsets of the data, zooming in/out, and panning.
 
