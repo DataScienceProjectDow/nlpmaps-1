@@ -90,15 +90,15 @@
 - What it does: Provides a framework to deploy models and analysis tools in a production environment.
 
 - Input:
- 1. Trained models
- 2. Data analysis tools
- 3. Other systems or services to integrate with
- 4. Deployment environment
+  1. Trained models
+  2. Data analysis tools
+  3. Other systems or services to integrate with
+  4. Deployment environment
 
 - Output:
- 1. Deployed models and analysis tools in a production environment
- 2. Web application for end-users
- 3. Integration with other systems or services
+  1. Deployed models and analysis tools in a production environment
+  2. Web application for end-users
+  3. Integration with other systems or services
 
 - Possible Sub-components:
 
