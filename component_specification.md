@@ -56,17 +56,17 @@ Bayesian optimization: uses a probabilistic model to predict the performance of 
 
 6. Visualization:
 
-What it does: Provides tools for visualizing data to identify patterns and anomalies.
-Input:
-Data
-Customizable visualization parameters
+- What it does: Provides tools for visualizing data to identify patterns and anomalies.
+- Input:
+- - Data
+- - Customizable visualization parameters
 
-Output:
-Interactive visualizations of the data
-Possible Sub-components:
-Graphs: visual representations of data using points, lines, bars, or other shapes.
-Customizable settings: allow users to adjust various parameters such as color, size, scale, and axis labels.
-Interactive features: enable users to explore the data and gain insights by hovering over points, selecting subsets of the data, zooming in/out, and panning.
+- Output:
+- - Interactive visualizations of the data
+- Possible Sub-components:
+- - Graphs: visual representations of data using points, lines, bars, or other shapes.
+- - Customizable settings: allow users to adjust various parameters such as color, size, scale, and axis labels.
+- - Interactive features: enable users to explore the data and gain insights by hovering over points, selecting subsets of the data, zooming in/out, and panning.
 
 
 
